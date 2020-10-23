@@ -3,6 +3,7 @@ $hostname = "localhost";
 $username = "root";
 $passworddb = "";
 $databasename = "bot";
+
 //conectando a base de dados
   $conn = mysqli_connect($hostname, $username,$passworddb,$databasename) or die("Data error");
 
@@ -16,11 +17,13 @@ $databasename = "bot";
 
   if(mysqli_num_rows($run_query) > 0){
     //fetching replay from the database accorde to the user
+    //fetcg replay da base de dados de acordo com o solicitado pelo usuario
     $fetch_data = mysqli_fetch_assoc($run_query);
 
     //storing reply to a varible whitch we'll send to ajax
+    //armazenando o reply enquanto devolvemos pelo ajax
     $replay = $fetch_data['replies'];
     echo $replay;
   }else{
-      echo "Sory can't be able to understand you!";
+      echo "Me desculpa, não estou entendendo o que esta querendo dizer..";
   }
