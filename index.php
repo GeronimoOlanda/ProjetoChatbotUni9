@@ -128,7 +128,7 @@
     <section class="page-section bg-primary text-white mb-0" id="about">
         <div class="container">
             <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-white">Sobre Nós</h2>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
@@ -141,7 +141,7 @@
                     <p class="lead">A Treino Hard é uma academia que tem como foco o desenvolvimento fisico e também pessoal dos nossos alunos, desenvolvendo treinos para alcançar o seu objetivo com 100% de aproveitamento e saude!.</p>
                 </div>
                 <div class="col-lg-4 mr-auto">
-                    <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p>
+                    <p class="lead">Você também pode pedir treinos customizados, caso os quais nossos profissionais altamente capacitados te recomendou, nosso tive irá analisar a sua requisição, para que possamos oferecer o melhor para voce!</p>
                 </div>
             </div>
 
