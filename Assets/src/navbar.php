@@ -1,5 +1,5 @@
 <!-- Favicon-->
-<link rel="icon" type="image/png" href="../icon/iconth.png" />
+<link rel="icon" type="image/svg" href="../icon/icon.svg" />
 <!-- Font Awesome icons (free version)-->
 <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
 <!-- Google fonts-->

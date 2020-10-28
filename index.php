@@ -10,7 +10,7 @@
 
     <title>Treino Hard Academias</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/png" href="./Assets/icon/iconth.png" />
+    <link rel="icon" type="image/svg" href="./Assets/icon/icon.svg" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
@@ -41,7 +41,7 @@
     <header class="masthead bg-primary text-white text-center">
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image-->
-            <img class="masthead-avatar mb-5" src="./Assets/assets/img/avataaars.svg" alt="" />
+            <img class="masthead-avatar mb-5" src="./Assets/icon/icon.svg" style="border-radius: 50%;" alt="" />
             <!-- Masthead Heading-->
             <h1 class="masthead-heading text-uppercase mb-0">Treino Hard</h1>
             <!-- Icon Divider-->
