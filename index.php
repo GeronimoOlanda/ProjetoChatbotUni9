@@ -73,7 +73,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/cabin.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/musculacao.jpg" alt="" />
                     </div>
                 </div>
                 <!-- Portfolio Item 2-->
@@ -82,7 +82,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/cake.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/hiitworkout.jpg" alt="" />
                     </div>
                 </div>
                 <!-- Portfolio Item 3-->
@@ -91,7 +91,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/circus.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/homeworkout.jpg" alt="" />
                     </div>
                 </div>
                 <!-- Portfolio Item 4-->
@@ -100,7 +100,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/game.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/yoga.jpg" alt="yoga" />
                     </div>
                 </div>
                 <!-- Portfolio Item 5-->
@@ -109,7 +109,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/safe.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/treinofuncional.jpg" alt="treino funcional" />
                     </div>
                 </div>
                 <!-- Portfolio Item 6-->
@@ -118,7 +118,7 @@
                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="./Assets/assets/img/portfolio/submarine.png" alt="" />
+                        <img class="img-fluid" src="./Assets/assets/img/portfolio/calistenia.png" alt="Calistenia" />
                     </div>
                 </div>
             </div>
@@ -203,7 +203,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Log Cabin</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Musculação</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -211,12 +211,12 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/cabin.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/musculacao.jpg" alt="" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">O treinamento de força, conhecido popularmente como musculação é uma forma de exercício contra resistência, praticado normalmente em ginásios, para o treinamento e desenvolvimento dos músculos esqueléticos</p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
@@ -237,7 +237,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Tasty Cake</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">HIIT</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -245,12 +245,13 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/cake.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/hiitworkout.jpg" alt="" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">Acrônimo para High Intensity Interval Training (Treinamento Intervalado de Alta Intensidade), como o nome indica, este protocolo consiste em treinos de alta intensidade e pequenas pausas. Por isso, traz grande gasto calórico e demanda bastante da capacidade muscular e cardiorrespiratória.
+“Nesse tipo de treino, o tempo é curto porque a intensidade será a maior que o aluno conseguir realizar. Outro ponto positivo é que, mesmo depois do exercício, o corpo permanece em funcionamento acelerado”, </p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
@@ -271,7 +272,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Circus Tent</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Homeworkout</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -279,12 +280,12 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/circus.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/homeworkout.jpg" alt="" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">Treinar em casa <strong>(Home workout)</strong>já virou rotina para muita gente, seja por questões financeiras, correria do dia a dia ou pela preguiça de ir para a academia. Além de ser uma prática fácil e acessível, os exercícios em casa têm o benefício de poderem ser praticados a qualquer hora, se adaptando à rotina de cada um</p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
@@ -305,7 +306,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal4Label">Controller</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal4Label">YOGA</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -313,12 +314,12 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/game.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/yoga.jpg" alt="yoga" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">O ioga ou yoga é um conceito que se refere às tradicionais disciplinas físicas originárias da Índia. A palavra está associada com as práticas meditativas costuma ser associado tipicamente com a hata-ioga e suas asanas ou como uma forma de exercício</p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
@@ -339,7 +340,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Locked Safe</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Treino Funcional</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -347,12 +348,12 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/safe.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/treinofuncional.jpg" alt="Treino Funcional" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">O treinamento funcional é uma classificação de exercícios que envolvem o treinamento do corpo para as atividades realizadas na vida diária.</p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
@@ -373,7 +374,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Submarine</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Calistenia</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -381,12 +382,12 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/submarine.png" alt="" />
+                                <img class="img-fluid rounded mb-5" src="./Assets/assets/img/portfolio/calistenia.png" alt="" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <p class="mb-5">Calistenia é um conjunto de exercícios físicos onde se usa apenas o peso do próprio corpo procura movimentar grupos musculares de maneira natural, sem utilização de dumbbells e similares. A Calistenia desenvolve habilidades como força sobre o próprio corpo, equilíbrio, noção espacial e flexibilidade.</p>
                                 <button class="btn btn-primary" data-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
-                                    Close Window
+                                    Fechar Janela
                                 </button>
                             </div>
                         </div>
