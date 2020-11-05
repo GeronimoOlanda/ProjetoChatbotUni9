@@ -9,7 +9,6 @@
 * Terceiro, é necessario ter um dominio, para que seus usuarios visualizem o seu site.
 * Quarto, subir os arquivos para o servidor.
 * Quinto, testar o site e verificar as funcionalidades.
-* Pronto para o uso.
 
 #### Instação do Banco de dados
 
@@ -20,4 +19,7 @@ $username = "";
 $passworddb = "";
 $databasename = "";
 
+* configurar o banco de dados com as perguntas e respostas.
+* Testar as funcionalidades.
+* Pronto para o uso.
  
